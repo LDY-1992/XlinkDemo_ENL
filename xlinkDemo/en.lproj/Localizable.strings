@@ -1,0 +1,54 @@
+/* 
+  Localizable.strings
+  xlinkDemo
+
+  Created by kingcom on 2016/11/4.
+  Copyright © 2016年 xtmac. All rights reserved.
+*/
+
+//ViewController
+"当前版本号"="Current version number";
+"提示"="Tips";
+"确定"="OK";
+"密码长度必须大于6位小于18位"="Password length must be greater than 6 less than 18";
+"注册的手机号已存在"="Registered mobile phone number already exists";
+"密码错误"="Password error";
+"帐号不合法"="Account is not valid";
+"用户不存在"="user does not exist";
+"服务端发生异常"="Server side exception";
+"网络环境异常"="Abnormal network environment";
+"连接超时，请检查网络后重新操作。"="Login timeout, please input again after check the network.";
+
+//ScanDeviceViewController
+"扫描不到设备，请手动扫描。"="Can not scan the device, please click the scan button.";
+"请开启WIFI环境"="Please open WIFI";
+"程序出错，请重新操作。"="Program error.";
+"连接设备失败"="Failure of connection device";
+
+//RegisterViewController
+"返回"="Return";
+"注册"="Register";
+"获取验证码"="Get verification";
+"注册失败，手机号已被注册！"="Registration failed, the phone number has been registered!";
+"注册失败，请重新注册！"="Registration failed, please register again!";
+"获取验证码失败！"="Failed to obtain verification code!";
+"验证码错误，请重新验证！"="Get verification Code error, please try again!";
+"请正确输入信息！"="Please input the correct information!";
+
+//MatchViewController
+"停止"="Stop";
+"添加设备"="Add";
+"配对超时，请从新配对！"="Pairing timeout, please from the new pair!";
+"配置出错，请重新配置。"="Pairing timeout,try agin.";
+
+//ForgetViewController
+"重置密码"="Reset the password";
+"重置密码失败，手机号未被注册！"="Reset the password failed!";
+"重置密码失败，未知错误！"="Reset the password failed!";
+
+//List
+"删除设备"="Delete";
+"设备列表"="Device list";
+"设备不在线"="Device offline";
+
+

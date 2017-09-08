@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  xlinkDemo
+
+  Created by kingcom on 2016/11/7.
+  Copyright © 2016年 xtmac. All rights reserved.
+*/
+"CFBundleDisplayName" = "异亮生活";
+"NSLocationAlwaysUsageDescription"="以便获取当地天气数据";
+"NSLocationWhenInUseUsageDescription"="以便获取当地天气数据";
+"NSContactsUsageDescription"="以便更好的为您服务";

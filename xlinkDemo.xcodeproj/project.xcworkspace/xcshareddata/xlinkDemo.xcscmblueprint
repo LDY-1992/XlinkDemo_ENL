@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "56f427ac-c256-fa44-99cb-47d2d2b529aa++7282",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "56f427ac-c256-fa44-99cb-47d2d2b529aa++7282" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "56f427ac-c256-fa44-99cb-47d2d2b529aa++7282" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "61DD585D-0AC9-4122-B498-FE545CCA19F0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "56f427ac-c256-fa44-99cb-47d2d2b529aa++7282" : "XlinkDemo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "xlinkDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "xlink-airPurifier-ios\/Xlink_SDK_IOS_Demo\/XlinkDemo\/xlinkDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.1.80\/svn\/codenew",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "56f427ac-c256-fa44-99cb-47d2d2b529aa++7282"
+    }
+  ]
+}

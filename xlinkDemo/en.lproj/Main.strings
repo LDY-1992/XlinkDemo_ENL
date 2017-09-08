@@ -1,0 +1,210 @@
+
+/* Class = "UILabel"; text = "红酒"; ObjectID = "1B5-2A-0WF"; */
+"1B5-2A-0WF.text" = "Wine";
+
+/* Class = "UITextField"; placeholder = "City"; ObjectID = "1ZB-Eo-IFk"; */
+"1ZB-Eo-IFk.placeholder" = "City(optional)";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "2HU-Wm-jX1"; */
+"2HU-Wm-jX1.normalTitle" = "Register";
+
+/* Class = "UILabel"; text = "AIR VALLEY 婴儿方"; ObjectID = "2zA-M0-xUm"; */
+"2zA-M0-xUm.text" = "AIR VALLEY BABY";
+
+/* Class = "UILabel"; text = "Country/Region"; ObjectID = "34f-bp-vrg"; */
+"34f-bp-vrg.text" = "Country/Region";
+
+/* Class = "UIViewController"; title = "B8_controller"; ObjectID = "3BI-8w-znk"; */
+"3BI-8w-znk.title" = "B8_controller";
+
+/* Class = "UILabel"; text = "50%"; ObjectID = "3mX-Dm-h8R"; */
+"3mX-Dm-h8R.text" = "50%";
+
+/* Class = "UIButton"; normalTitle = "Scan local device"; ObjectID = "4f5-km-2bO"; */
+"4f5-km-2bO.normalTitle" = "Scan local device";
+
+/* Class = "UILabel"; text = "Please wait"; ObjectID = "4oX-Yf-lLC"; */
+"4oX-Yf-lLC.text" = "Please wait";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "7EG-Vd-4Ap"; */
+"7EG-Vd-4Ap.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "AIR VALLEY 婴儿方"; ObjectID = "7Ie-Ta-N9P"; */
+"7Ie-Ta-N9P.text" = "AIR VALLEY BABY";
+
+/* Class = "UINavigationItem"; title = "扫描设备"; ObjectID = "7NH-hf-rf3"; */
+"7NH-hf-rf3.title" = "Scan device";
+
+/* Class = "UITextField"; placeholder = "Phone number"; ObjectID = "7pO-Om-uFu"; */
+"7pO-Om-uFu.placeholder" = "Phone number";
+
+/* Class = "UILabel"; text = "25"; ObjectID = "BL1-Xn-cjN"; */
+"BL1-Xn-cjN.text" = "25";
+
+/* Class = "UIButton"; normalTitle = "Forget"; ObjectID = "D9E-gK-Kjl"; */
+"D9E-gK-Kjl.normalTitle" = "Forget";
+
+/* Class = "UITextField"; placeholder = "True name"; ObjectID = "DkU-gk-sT1"; */
+"DkU-gk-sT1.placeholder" = "Name(optional)";
+
+/* Class = "UILabel"; text = "海蓝"; ObjectID = "DoV-qe-76D"; */
+"DoV-qe-76D.text" = "Under Water";
+
+/* Class = "UILabel"; text = "AIR VALLEY 婴儿方"; ObjectID = "EpD-IJ-hTR"; */
+"EpD-IJ-hTR.text" = "AIR VALLEY BABY";
+
+/* Class = "UILabel"; text = "Air Light Pendant"; ObjectID = "Fba-s3-gwc"; */
+"Fba-s3-gwc.text" = "Air Light Pendant";
+
+/* Class = "UILabel"; text = "AIR VALLEY PR0"; ObjectID = "GJK-zk-wvK"; */
+"GJK-zk-wvK.text" = "AIR VALLEY PR0";
+
+/* Class = "UILabel"; text = "AIR VALLEY WINE"; ObjectID = "HMq-aH-76k"; */
+"HMq-aH-76k.text" = "AIR VALLEY WINE";
+
+/* Class = "UILabel"; text = "热带"; ObjectID = "J7H-qW-pZa"; */
+"J7H-qW-pZa.text" = "Tropical";
+
+/* Class = "UITextField"; placeholder = "Input verification Code"; ObjectID = "Kub-eZ-e96"; */
+"Kub-eZ-e96.placeholder" = "Input verification Code";
+
+/* Class = "UILabel"; text = "Air Light Pendant"; ObjectID = "Nf2-QI-gsk"; */
+"Nf2-QI-gsk.text" = "Air Light Pendant";
+
+/* Class = "UILabel"; text = "森林"; ObjectID = "OUA-02-S0L"; */
+"OUA-02-S0L.text" = "Forset";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "PaO-vk-vWm"; */
+"PaO-vk-vWm.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "好运"; ObjectID = "Pzs-Lq-AHQ"; */
+"Pzs-Lq-AHQ.text" = "Good Fortune";
+
+/* Class = "UILabel"; text = "紧急"; ObjectID = "TOI-L3-7Mf"; */
+"TOI-L3-7Mf.text" = "Emergency";
+
+/* Class = "UIButton"; normalTitle = "Pairing"; ObjectID = "ThE-cx-CMT"; */
+"ThE-cx-CMT.normalTitle" = "Pairing";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "VOt-15-2AH"; */
+"VOt-15-2AH.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "闪光"; ObjectID = "W0P-uj-Ug4"; */
+"W0P-uj-Ug4.text" = "Twinkle";
+
+/* Class = "UILabel"; text = "AIR VALLEY O2"; ObjectID = "WDt-3E-oCc"; */
+"WDt-3E-oCc.text" = "AIR VALLEY O2";
+
+/* Class = "UILabel"; text = "AIR VALLEY WINE"; ObjectID = "XX7-lX-WEA"; */
+"XX7-lX-WEA.text" = "AIR VALLEY WINE";
+
+/* Class = "UITextField"; placeholder = "SSID"; ObjectID = "XrU-ci-Nvo"; */
+"XrU-ci-Nvo.placeholder" = "SSID";
+
+/* Class = "UILabel"; text = "  88%"; ObjectID = "ZLA-cG-wa8"; */
+"ZLA-cG-wa8.text" = "  88%";
+
+/* Class = "UIButton"; normalTitle = "Get verification Code"; ObjectID = "ZTJ-BD-AVt"; */
+"ZTJ-BD-AVt.normalTitle" = "Get verification Code";
+
+/* Class = "UILabel"; text = "AIR VALLEY PR0"; ObjectID = "acF-D5-7za"; */
+"acF-D5-7za.text" = "AIR VALLEY PR0";
+
+/* Class = "UILabel"; text = "Please wait"; ObjectID = "d9r-06-YP5"; */
+"d9r-06-YP5.text" = "Please wait";
+
+/* Class = "UILabel"; text = "AIR VALLEY PR0"; ObjectID = "drx-7l-gUJ"; */
+"drx-7l-gUJ.text" = "AIR VALLEY PR0";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "dwV-tV-Xaz"; */
+"dwV-tV-Xaz.normalTitle" = "Login";
+
+/* Class = "UILabel"; text = "Custom Lighting"; ObjectID = "eMT-x1-s1q"; */
+"eMT-x1-s1q.text" = "Custom Lighting";
+
+/* Class = "UILabel"; text = "点击开启"; ObjectID = "ejp-8f-nxd"; */
+"ejp-8f-nxd.text" = "Open";
+
+/* Class = "UILabel"; text = "夏威夷蓝"; ObjectID = "fAo-pi-fKD"; */
+"fAo-pi-fKD.text" = "Blue Ocean";
+
+/* Class = "UILabel"; text = "Add device"; ObjectID = "ghi-ON-8X2"; */
+"ghi-ON-8X2.text" = "Add device";
+
+/* Class = "UILabel"; text = "放松"; ObjectID = "iXR-Pq-F5Y"; */
+"iXR-Pq-F5Y.text" = "Relax";
+
+/* Class = "UILabel"; text = "Click on the pairing button to start pairing."; ObjectID = "jFj-26-AAZ"; */
+"jFj-26-AAZ.text" = "Click on the pairing button to start pairing.";
+
+/* Class = "UIButton"; normalTitle = "Get verification Code"; ObjectID = "kPd-Ar-JWd"; */
+"kPd-Ar-JWd.normalTitle" = "Get verification Code";
+
+/* Class = "UILabel"; text = "Please wait"; ObjectID = "kiP-kv-zik"; */
+"kiP-kv-zik.text" = "Please wait";
+
+/* Class = "UILabel"; text = "AIR VALLEY O2"; ObjectID = "lLD-ly-sbe"; */
+"lLD-ly-sbe.text" = "AIR VALLEY O2";
+
+/* Class = "UILabel"; text = "162"; ObjectID = "lWq-KW-ml2"; */
+"lWq-KW-ml2.text" = "162";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "nO1-Fo-GB7"; */
+"nO1-Fo-GB7.placeholder" = "Password";
+
+/* Class = "UIViewController"; title = "B8_controller"; ObjectID = "oRO-Q0-vyh"; */
+"oRO-Q0-vyh.title" = "B8_controller";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ocI-gA-Vw5"; */
+"ocI-gA-Vw5.text" = "";
+
+/* Class = "UITextField"; placeholder = "Phone number"; ObjectID = "qi0-qp-ln7"; */
+"qi0-qp-ln7.placeholder" = "Phone number";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "qkQ-0Y-ws4"; */
+"qkQ-0Y-ws4.normalTitle" = "Submit";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "rky-lY-d05"; */
+"rky-lY-d05.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "Please wait"; ObjectID = "sTr-tF-0qW"; */
+"sTr-tF-0qW.text" = "Please wait";
+
+/* Class = "UILabel"; text = "落日"; ObjectID = "t8B-jM-rzm"; */
+"t8B-jM-rzm.text" = "Sunset";
+
+/* Class = "UILabel"; text = "AIR VALLEY O2"; ObjectID = "tld-9X-86B"; */
+"tld-9X-86B.text" = "AIR VALLEY O2";
+
+/* Class = "UITextField"; placeholder = "Input verification Code"; ObjectID = "tsB-WO-ANS"; */
+"tsB-WO-ANS.placeholder" = "Input verification Code";
+
+/* Class = "UILabel"; text = "聚会"; ObjectID = "uNR-lW-6Tt"; */
+"uNR-lW-6Tt.text" = "Party";
+
+/* Class = "UILabel"; text = "100%"; ObjectID = "uSc-jO-jHP"; */
+"uSc-jO-jHP.text" = "100%";
+
+/* Class = "UILabel"; text = "AIR VALLEY WINE"; ObjectID = "vne-bB-5gt"; */
+"vne-bB-5gt.text" = "AIR VALLEY WINE";
+
+/* Class = "UITextField"; placeholder = "Phone number"; ObjectID = "w8I-0I-djo"; */
+"w8I-0I-djo.placeholder" = "Phone number";
+
+/* Class = "UILabel"; text = "彩虹"; ObjectID = "xK0-Vm-vHv"; */
+"xK0-Vm-vHv.text" = "Rainbow";
+
+/* Class = "UILabel"; text = "160"; ObjectID = "xU2-qr-JpV"; */
+"xU2-qr-JpV.text" = "160";
+
+/* Class = "UILabel"; text = "Country/Region"; ObjectID = "xs7-wA-uYh"; */
+"xs7-wA-uYh.text" = "Country/Region";
+
+/* Class = "UILabel"; text = "88"; ObjectID = "yrr-MA-mH0"; */
+"yrr-MA-mH0.text" = "88";
+
+/* Class = "UILabel"; text = "Please wait"; ObjectID = "zI9-QF-hPI"; */
+"zI9-QF-hPI.text" = "Please wait";
+
+/* Class = "UILabel"; text = "请加水"; ObjectID = "zKF-Mo-AJP"; */
+"zKF-Mo-AJP.text" = "Please add water";

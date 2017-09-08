@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  xlinkDemo
+
+  Created by kingcom on 2016/11/7.
+  Copyright © 2016年 xtmac. All rights reserved.
+*/
+"CFBundleDisplayName" = "ENL";
+"NSLocationAlwaysUsageDescription"="In order to obtain local weather data";
+"NSLocationWhenInUseUsageDescription"="In order to obtain local weather data";
+"NSContactsUsageDescription"="provide you better services";
