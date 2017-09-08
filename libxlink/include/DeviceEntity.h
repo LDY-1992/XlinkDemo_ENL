@@ -29,6 +29,7 @@ typedef enum : UInt8 {
 @property (nonatomic,copy)NSString *deviceKey;          //设备Key str 长度为 16
 @property (nonatomic,copy)NSData *macAddress;           //设备Mac地址，设备的硬件地址
 @property (nonatomic,copy)NSString *productID;          //设备产品ID        扫描得到
+@property (nonatomic,assign)int mcuHardVersion;         //mcu硬件版本号      <1byte
 @property (nonatomic,assign)int mcuSoftVersion;         //mcu软件版本号      <2bytes
 @property (nonatomic,assign)int devicePort;             //设备监听的端口号    <2bytes
 @property (nonatomic,assign)int8_t version;                //协议版本
